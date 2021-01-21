@@ -29,10 +29,70 @@ Donec consequat, libero et mattis tristique, libero elit fermentum odio, id maxi
 In aliquet felis orci. Cras ornare dapibus auctor. Vestibulum vel eros at dui vehicula aliquam in sit amet orci. In diam velit, bibendum eu gravida at, consequat et libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi facilisis eu ex vitae consectetur. Sed posuere gravida lectus, eu dictum ligula. Morbi et justo vehicula, feugiat ligula quis, ornare turpis.
 			</h3>
 			
-			<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
-			<h1>Flecha</h1>
-			</section>
+			<h2>
+			Mazos Destacados
+			</h2>
 			
+			<div class="deck-holder">
+			
+				<div class="deck-wrapper"">
+					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
+						<h1>Flecha</h1>
+						<h3>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
+						</h3>
+					</section>
+				</div>
+				
+				<div class="deck-wrapper"">
+					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
+						<h1>Flecha</h1>
+						<h3>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
+						</h3>
+					</section>
+				</div>
+				
+				<div class="deck-wrapper"">
+					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
+						<h1>Flecha</h1>
+						<h3>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
+						</h3>
+					</section>
+				</div>
+				
+				<div class="deck-wrapper"">
+					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
+						<h1>Flecha</h1>
+						<h3>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
+						</h3>
+					</section>
+				</div>
+				
+				<div class="deck-wrapper"">
+					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
+						<h1>Flecha</h1>
+						<h3>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
+						</h3>
+					</section>
+				</div>
+				
+				<div class="deck-wrapper"">
+					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
+						<h1>Flecha</h1>
+						<h3>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
+						</h3>
+					</section>
+				</div>
+				
+				
+				
+				
+			</div>
 			
 			<!--
 			<form method = "POST" action="php/validate.php">
