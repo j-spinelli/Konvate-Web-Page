@@ -1,8 +1,9 @@
 
 $( document ).ready(function() {
 	
+
 	$(".deck-display").hover(
-		//On Enter Hover callback
+		
 		function(){
 			$(this).find("h1")
 								.dequeue()
@@ -12,24 +13,44 @@ $( document ).ready(function() {
 									opacity: "1"
 								  }, 600);
 			
-		}	,//<-Tambien recibe otro parametro que es la funcion que se llama
-			 //cuando SALGO del hover
-		//On Exit Hover
+		}	,
 		function(){
-			//On exit hover queremos ANIMAR a este elemento para que retorne
-			//a la posicion orignal
+			
 			$(this).find("h1")
 								.animate({
 									top: "-25",
 									opacity: "0"
-								  }, 600 ,/*<--La funcion ANIMATE() recibe (despues de la cantidad
-																			de segundos, una funcion a
-																			llamarse cuando TERMINE la animacion)
-				Esta funcion se llama LUEGO de que volvamos, por animacion, al punto top y el alfa iniciales*/
+								  }, 600 ,
 			  function(){
-				$(this).find("h1").dequeue();	//Saca al elemento de la lista
+				$(this).find("h1").dequeue();	
 			  } 
 		  );
 		}
 	);
+	$(".deck-display").hover(
+		
+		function(){
+			$(this).find("h3")
+								.dequeue()
+								.stop()
+								.animate({
+									
+									opacity: "1"
+								  }, 600);
+			
+		}	,
+		function(){
+			
+			$(this).find("h3")
+								.animate({
+									
+									opacity: "0"
+								  }, 600 ,
+			  function(){
+				$(this).find("h3").dequeue();	
+			  } 
+		  );
+		}
+	);
+
 });

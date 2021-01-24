@@ -29,70 +29,43 @@ Donec consequat, libero et mattis tristique, libero elit fermentum odio, id maxi
 In aliquet felis orci. Cras ornare dapibus auctor. Vestibulum vel eros at dui vehicula aliquam in sit amet orci. In diam velit, bibendum eu gravida at, consequat et libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi facilisis eu ex vitae consectetur. Sed posuere gravida lectus, eu dictum ligula. Morbi et justo vehicula, feugiat ligula quis, ornare turpis.
 			</h3>
 			
-			<h2>
-			Mazos Destacados
-			</h2>
-			
 			<div class="deck-holder">
 			
-				<div class="deck-wrapper"">
-					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
-						<h1>Flecha</h1>
-						<h3>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
-						</h3>
-					</section>
-				</div>
-				
-				<div class="deck-wrapper"">
-					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
-						<h1>Flecha</h1>
-						<h3>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
-						</h3>
-					</section>
-				</div>
-				
-				<div class="deck-wrapper"">
-					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
-						<h1>Flecha</h1>
-						<h3>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
-						</h3>
-					</section>
-				</div>
-				
-				<div class="deck-wrapper"">
-					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
-						<h1>Flecha</h1>
-						<h3>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
-						</h3>
-					</section>
-				</div>
-				
-				<div class="deck-wrapper"">
-					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
-						<h1>Flecha</h1>
-						<h3>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
-						</h3>
-					</section>
-				</div>
-				
-				<div class="deck-wrapper"">
-					<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
-						<h1>Flecha</h1>
-						<h3>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod dolor id tellus egestas, vitae egestas purus feugiat. Integer efficitur felis hendrerit, placerat ex rhoncus, auctor quam. Etiam ornare venenatis vulputate. Curabitur venenatis arcu lacinia egestas ultricies. Curabitur quis fermentum nisi, nec cursus dolor. 
-						</h3>
-					</section>
-				</div>
-				
-				
-				
-				
+			<h2>Mazos Destacados</h2>
+			
+			<section class="deck-display" style="background-image: url(pictures/carlos-amaral-elf-archer.jpg);">
+			<h1>Arquero</h1>
+			<h3> Dino no hace mas que chupar muchos pitos en Capilla. Cuenta la leyenda que tiene el record mundial de chupapitos.</h3>
+			</section>
+			
+			<section class="deck-display" style="background-image: url(pictures/manuel-castanon-the-hopeful-knight-final.jpg);">
+			<h1>Caballero</h1>
+			<h3> Dino no hace mas que chupar muchos pitos en Capilla. Cuenta la leyenda que tiene el record mundial de chupapitos.</h3>
+			</section>
+			
+			<section class="deck-display" style="background-image: url(pictures/markus-neidel-ork-axe.jpg);;">
+			<h1>Orco</h1>
+			<h3> Dino no hace mas que chupar muchos pitos en Capilla. Cuenta la leyenda que tiene el record mundial de chupapitos.</h3>
+			</section>
+			
+			<br>
+			
+			<section class="deck-display" style="background-image: url(pictures/peter-ortiz-necro-final2.jpg);">
+			<h1>Nigromante</h1>
+			<h3> Dino no hace mas que chupar muchos pitos en Capilla. Cuenta la leyenda que tiene el record mundial de chupapitos.</h3>
+			</section>
+			
+			<section class="deck-display" style="background-image: url(pictures/d9uwlmx-54dae3c5-90c3-4186-a674-b3aa8959aef7.jpg);">
+			<h1>Mago</h1>
+			<h3> Dino no hace mas que chupar muchos pitos en Capilla. Cuenta la leyenda que tiene el record mundial de chupapitos.</h3>
+			</section>
+			
+			<section class="deck-display" style="background-image: url(pictures/cole-eastburn-dwarfblacksmith.jpg);">
+			<h1>Enano</h1>
+			<h3> Dino no hace mas que chupar muchos pitos en Capilla. Cuenta la leyenda que tiene el record mundial de chupapitos.</h3>
+			</section>
 			</div>
+			
 			
 			<!--
 			<form method = "POST" action="php/validate.php">
